@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sathyanarayana</h1>
 <h3 align="center">A passionate Data Consultant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathya-work&label=Profile%20views&color=0e75b6&style=flat" alt="sathya-work" /> </p>
+<p align="left"> Currently residing in Maryville, MO, I am an International student from India with my bachelor's in Computer Science and Engineering.
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=sathya-work&label=Profile%20views&color=0e75b6&style=flat" alt="sathya-work" /> 
+</p>
 
 - 🌱 I’m currently learning **Tableau, PowerBI**
 
